@@ -64,5 +64,5 @@ El siguiente es el **SUID**, que facilita la identificación rápida de binarios
 	style="float: left; margin-right: 10px;" />
 </p>
 
-
-El proyecto podría experimentar cambios y mejoras en el futuro.
+> [!NOTE]
+> El proyecto podría experimentar cambios y mejoras en el futuro.
