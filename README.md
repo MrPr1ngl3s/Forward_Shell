@@ -1,4 +1,4 @@
-# Forward-Shell.sh
+# Forward-Shell.py
 En algunas situaciones, puede no ser factible establecer una Reverse Shell o una Bind Shell debido a restricciones específicas del firewall, como reglas de iptables, que limitan la apertura de determinados puertos.
 
 Este script utiliza archivos **mkfifo** para simular una shell con una TTY completamente interactiva a través de una webshell, lo que facilita una navegación mucho más cómoda por el sistema.
