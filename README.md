@@ -66,3 +66,6 @@ El siguiente es el **SUID**, que facilita la identificación rápida de binarios
 
 > [!NOTE]
 > El proyecto podría experimentar cambios y mejoras en el futuro.
+
+
+Este proyecto está inspirado en el trabajo de [s4vitar/ttyoverhttp]. A partir de esa idea, he desarrollado mi propia implementación, incorporando funcionalidades adicionales, modificaciones y características personalizadas.
